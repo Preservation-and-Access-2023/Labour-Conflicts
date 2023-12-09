@@ -1,4 +1,4 @@
-# Labour Conflicts and Politics (1950-2019)
+# Dutch Labour Conflicts and Politics (1950-2019)
 
 Contains a .csv file on labour conflicts and political positions in the Netherlands from 1950 to 2019.
 
